@@ -81,7 +81,7 @@ body{
     padding:8px;
     text-align: justify;
     text-justify: inter-word;
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .projectArea{
@@ -98,12 +98,10 @@ body{
     padding: 10px;
     margin-bottom: 10px;
   }
-h2{
-  font-family: monospace;
-}
+
   .post1 p{
     
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 18px;
 
   }
@@ -113,7 +111,7 @@ h2{
   }
 
   h2{
-    font-size: 16px;
+    font-size: 18px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     padding-top: 5px;
@@ -122,9 +120,6 @@ h2{
   a, a:visited {
     text-decoration: none;
 }
-
-
-  
 
   ::-webkit-scrollbar {
     width: 5px;
